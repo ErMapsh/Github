@@ -10,7 +10,7 @@
 
 # lets move forward
 ## 1.Installation of Git
-[Download git](ps://git-scm.com/downloads)
+- [Download git](https://git-scm.com/downloads)
 
 
 ## 2.Configuration of git and github
