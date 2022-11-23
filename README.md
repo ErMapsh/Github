@@ -1,3 +1,5 @@
+![image](https://www.freecodecamp.org/news/content/images/2022/07/git-github.png)
+
 ##### Note: If you want to quickly work with Git Technology, then this is for you. In this video we gonna learn basic thing of git Technology that us to push data on github and pull a data from git repository
 
 #### Step: To complete following step you should have github account, if you haven't, just go  and create
