@@ -47,6 +47,7 @@ and new SSH Key, Paste the generated ssh key that u copied.
 3. git commit -m  "message" --> we commiting here 
 4. git push --> pushing data to github
 5. git pull --> to pull update
-5. rm -rf .git --> to make normal repository
+6. rm -rf .git --> to make non git repository
+7. git log --> git commit history
 
 Note: there is lots of things in git but I'm gonna show you important cmds thats help you make github repository
