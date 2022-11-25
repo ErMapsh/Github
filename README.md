@@ -45,6 +45,7 @@ and new SSH Key, Paste the generated ssh key that u copied.
 # 🎉Congratulation, you complete most important task here. 
 
 ## 3.Commands that gonna we use
+0. git status --> status of directory
 1. git init -> to make git repository
 2. git add . --> adding all file to staging area
 3. git commit -m  "message" --> we commiting here 
@@ -55,7 +56,10 @@ and new SSH Key, Paste the generated ssh key that u copied.
 
 
 ## Git Information
+- Checking over time
 ![Git checkup](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-1-1.jpg)
+- Git Architecture
 ![Git arch](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
+![Git arch](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-4.jpg)
 
 Note: there is lots of things in git but I'm gonna show you important cmds thats help you make github repository
