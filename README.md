@@ -2,6 +2,9 @@
 
 ##### Note: If you want to quickly work with Git Technology, then this is for you. In this video we gonna learn basic thing of git Technology that us to push data on github and pull a data from git repository
 
+# Git: 
+- Git is a distributed version control system (DVCS) for tracking changes to files
+
 #### Step: To complete following step you should have github account, if you haven't, just go  and create
 
 1. Installation of git on user/programmer system
@@ -49,5 +52,10 @@ and new SSH Key, Paste the generated ssh key that u copied.
 5. git pull --> to pull update
 6. rm -rf .git --> to make non git repository
 7. git log --> git commit history
+
+
+## Git Information
+![Git checkup](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-1-1.jpg)
+![Git arch](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)
 
 Note: there is lots of things in git but I'm gonna show you important cmds thats help you make github repository
