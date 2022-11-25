@@ -56,9 +56,8 @@ and new SSH Key, Paste the generated ssh key that u copied.
 
 
 ## Git Information
-- Checking over time
 ![Git checkup](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-1-1.jpg)</br>
-- Git Architecture
+
 ![Git arch](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-3.jpg)</br>
 ![Git arch](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-4.jpg)</br>
 
