@@ -53,7 +53,7 @@ and new SSH Key, Paste the generated ssh key that u copied.
 5. git pull --> to pull update
 6. rm -rf .git --> to make non git repository
 7. git log --> git commit history
-
+8. git clone --> clone the git repo
 
 ## Git Information
 ![Git checkup](https://intellipaat.com/blog/wp-content/uploads/2020/04/Git-1-1.jpg)</br>
